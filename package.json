@@ -1,7 +1,7 @@
 {
-    "name": "metapress-plugin-template",
+    "name": "metapress-plugin-example-custom-object",
     "version": "1.0.0",
-    "description": "My MetaPress plugin.",
+    "description": "A plugin for MetaPress which creates a custom Three.js object.",
     "main": "js/loader.js",
     "private": true,
     "scripts": {
@@ -12,11 +12,11 @@
         "metapress",
         "plugin"
     ],
-    "author": "",
+    "author": "MetaPress",
     "license": "ISC",
     "metapress": {
-        "id": "com.myplugin",
-        "name": "My MetaPress Plugin"
+        "id": "com.metapress.example.CustomObject",
+        "name": "Custom Object Example"
     },
     "devDependencies": {
         "@babel/core": "^7.22.9",

@@ -1,6 +1,6 @@
-# MetaPress Plugin
+# Custom Object Example
 
-This is a plugin for [MetaPress](https://get.metapress.dev).
+This is a plugin for [MetaPress](https://get.metapress.dev). It shows an example of how to create a custom Three.js object which can be added into the world.
 
 ## Building
 
